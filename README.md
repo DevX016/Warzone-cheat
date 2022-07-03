@@ -14,3 +14,5 @@ Media
 
 ![image](https://user-images.githubusercontent.com/107880326/177056972-562e6a2b-1647-4ebe-9905-3275a496be39.png)
 
+
+Compiled version : https://github.com/DevX016/Warzone-cheat/releases/tag/Release
